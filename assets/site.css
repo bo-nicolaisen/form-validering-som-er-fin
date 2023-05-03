@@ -1,0 +1,16 @@
+#myForm {
+  width: 40%;
+  max-width: 600px;
+  display: flex;
+  flex-direction: column;
+  border: 2px solid black;
+  padding: 2em;
+}
+
+input {
+  margin: 2em;
+}
+
+.notValid {
+  border: 2px solid red;
+}
