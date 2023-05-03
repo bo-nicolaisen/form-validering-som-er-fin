@@ -14,3 +14,7 @@ input {
 .notValid {
   border: 2px solid red;
 }
+
+.Valid {
+  border: 2px solid green;
+}
